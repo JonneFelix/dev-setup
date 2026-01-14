@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+bun.lockb
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.uv/
+.python-version
+
+# Build outputs
+dist/
+build/
+.next/
+.nuxt/
+.output/
+*.egg-info/
+
+# IDE & Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Environment & Secrets
+.env
+.env.local
+.env*.local
+*.pem
+*.key
+
+# Logs & Cache
+*.log
+npm-debug.log*
+.cache/
+.turbo/
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/

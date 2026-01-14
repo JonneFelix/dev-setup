@@ -1,0 +1,16 @@
+---
+description: Global rules for all projects
+globs: ["**/*"]
+---
+
+# Stack
+- Python: `uv` (not pip). Use `uv init`, `uv add`, `uv run`
+- TypeScript: `bun` (not npm). Use `bun init`, `bun add`, `bun run`
+
+# Style
+- Type hints (Python), strict mode (TS)
+- Ruff formatting (Python), Prettier (TS/JS)
+
+# Workflow
+- Read before edit
+- Test before done
