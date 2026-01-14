@@ -1,12 +1,12 @@
 #!/bin/bash
 # ═══════════════════════════════════════════════════════════════════
-#  DOTFILES INSTALLER
-#  One-liner: curl -fsSL https://raw.githubusercontent.com/JonneFelix/dotfiles/main/install.sh | bash
+#  DEV-SETUP INSTALLER
+#  One-liner: curl -fsSL https://raw.githubusercontent.com/JonneFelix/dev-setup/main/install.sh | bash
 # ═══════════════════════════════════════════════════════════════════
 
 set -e
 
-REPO="https://github.com/JonneFelix/dotfiles"
+REPO="https://github.com/JonneFelix/dev-setup"
 DOTFILES_DIR="$HOME/.dotfiles"
 
 echo "

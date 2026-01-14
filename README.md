@@ -1,11 +1,11 @@
-# Dotfiles
+# Dev Setup
 
-Meine macOS Entwicklungsumgebung. Ein Befehl - alles eingerichtet.
+macOS Entwicklungsumgebung. Ein Befehl - alles eingerichtet.
 
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/JonneFelix/dotfiles/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/JonneFelix/dev-setup/main/install.sh | bash
 ```
 
 Danach neues Terminal öffnen und `h` tippen für alle Shortcuts.
